@@ -15,5 +15,10 @@ couchapp_load([
   "vendor/couchapp/jquery.mustache.js",
   "vendor/couchapp/jquery.evently.js",
   "vendor/couchapp/jquery.pathbinder.js",
-  "vendor/couchapp/bootstrap.min.js"
+  "vendor/couchapp/bootstrap.min.js",
+   "vendor/couchapp/fullcalendar.min.js",
+   "vendor/couchapp/fullcalendar.js",
+   "vendor/couchapp/jquery-1.8.1.min.js",
+   "vendor/couchapp/jquery-ui-1.8.23.custom.min.js",
+   "vendor/couchapp/app.js"
 ]);
